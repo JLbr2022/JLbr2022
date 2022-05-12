@@ -24,9 +24,9 @@ I am computing about lover and working on get into Full-Stack developer in The T
 - 🧑‍💼 Currently, i am HP Gaming and Premium PC Analist Support PL in Sitel
 - 👨‍💻 I have knowledge about programming sciences the old school style
 - 👨‍💻 I am focused on updating with programing science technology
-- 🛠 I really like to help, work as a team, share my knowledge and ask questions when I need it.
+- 🛠 I really like to help, work as a team, share my knowledge and ask questions when I need it. 😄
 - 🔍 I am looking for partners to help me achieve my goal
-- 🎉 What amuses me: watching videos with the pranks of cats
+- 🎉 What amuses me: to watch cats pranks videos 🤣
 - 🗣 Languages: Spanish mother tongue, English B2, Portuguese B1
 - ⛸ Sport: Inline skates
 - 🎼 Jobbie: Playing games on the PC, singing and reading about technology
