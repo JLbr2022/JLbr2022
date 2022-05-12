@@ -17,7 +17,7 @@ Soy amante de la computación y me estoy formando como programador Full-Stack en
 - ⛸ Deporte: Patines en línea
 - 🎼 Jobbie: Jugar en el PC, cantar y leer sobre tecnología
 
-## English
+## Hi  There! - English
 
 I am computing about lover and working on get into Full-Stack developer in The ToTi
 
