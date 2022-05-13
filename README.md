@@ -1,6 +1,7 @@
 # JLbr2022
 
 💫 **José Luis Freites U.**
+
 💫 **Venezolano**
 
 ## Hola a todos! 🙋‍♂️
@@ -17,7 +18,7 @@ Soy amante de la computación y me estoy formando como programador Full-Stack en
 - ⛸ Deporte: Patines en línea
 - 🎼 Jobbie: Jugar en el PC, cantar y leer sobre tecnología
 
-## Hi  There! - English
+## Hi  There! - English 🙋‍♂️
 
 I am computing about lover and working on get into Full-Stack developer in The ToTi
 
@@ -30,3 +31,5 @@ I am computing about lover and working on get into Full-Stack developer in The T
 - 🗣 Languages: Spanish mother tongue, English B2, Portuguese B1
 - ⛸ Sport: Inline skates
 - 🎼 Jobbie: Playing games on the PC, singing and reading about technology
+
+[![José Freites GitHub stats](https://github-readme-stats.vercel.app/api?username=JLbr2022)](https://github.com/JLbr2022/github-readme-stats)
