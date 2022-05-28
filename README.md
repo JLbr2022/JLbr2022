@@ -1,5 +1,5 @@
 # JLbr2022
-
+![SelfiToti2](https://user-images.githubusercontent.com/102869871/170836633-06981200-3c6d-43b3-b7fb-2cd4324d4152.jpg)
 💫 **José Luis Freites U.**
 
 💫 **Venezolano**
@@ -32,4 +32,8 @@ I am computing about lover and working on get into Full-Stack developer in The T
 - ⛸ Sport: Inline skates
 - 🎼 Jobbie: Playing games on the PC, singing and reading about technology
 
-[![José Freites GitHub stats](https://github-readme-stats.vercel.app/api?username=JLbr2022)](https://github.com/JLbr2022/github-readme-stats)
+# Enlaces de interés y contacto:
+- Música para trabajar: <a href="https://open.spotify.com/collection/playlists" rel="nofollow">Spotify</a>
+- Contacto: jl.dev2022@gmail.com
+
+
