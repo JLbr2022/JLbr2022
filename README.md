@@ -32,6 +32,7 @@ I am computing about lover and working on get into Full-Stack developer in The T
 
 # Enlaces de interés y contacto:
 - Música para trabajar: <a href="https://open.spotify.com/collection/playlists" rel="nofollow">Spotify</a>
-- Contacto: jl.dev2022@gmail.com
+- Mi LinkedIn: <a href="linkedin.com/in/jose-freites-b784b0240" rel="nofollow">José Freites</a>
+- Mi Contacto: jl.dev2022@gmail.com
 
 
