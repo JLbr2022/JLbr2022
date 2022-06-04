@@ -31,9 +31,9 @@ I am computing about lover and working on get into Full-Stack developer in The T
 - 🎼 Jobbie: Playing games on the PC, singing and reading about technology
 
 ## Enlaces de interés y contacto:
-- Música para trabajar: <a href="https://open.spotify.com/collection/playlists" rel="nofollow">Spotify</a>
-- Mi LinkedIn: <a href="https://www.linkedin.com/in/jose-freites-b784b0240/" rel="nofollow">José Freites</a>
-- Behance: <a href="https://www.behance.net/Joseluisfreites" rel="nofollow">José Luis Freites</a>
+- Música para trabajar: <a href="https://open.spotify.com/collection/playlists" rel="nofollow" target="_blank">Spotify</a>
+- Mi LinkedIn: <a href="https://www.linkedin.com/in/jose-freites-b784b0240/" rel="nofollow" target="_blank">José Freites</a>
+- Behance: <a href="https://www.behance.net/Joseluisfreites" rel="nofollow" target="_blank">José Luis Freites</a>
 - Mi Contacto: jl.dev2022@gmail.com
 
 
