@@ -6,7 +6,6 @@
 
 Soy amante de la computación y me estoy formando como programador Full-Stack en la ToTi
 
-- 🧑‍💼 Actualmente trabajo en Sitel como Analista de Soporte Pleno para PC Gaming y Premium
 - 👨‍💻 Tengo conocimientos sobre programación al estilo de la vieja escuela
 - 👨‍💻 Estoy concentrado en actualizarme con la tecnología de programación
 - 🛠 Me gusta mucho ayudar, trabajar en equipo, compartir mi conocimiento y preguntar cuando no sé 😄
@@ -20,7 +19,6 @@ Soy amante de la computación y me estoy formando como programador Full-Stack en
 
 I am computing about lover and working on get into Full-Stack developer in The ToTi
 
-- 🧑‍💼 Currently, i am HP Gaming and Premium PC Analist Support PL in Sitel
 - 👨‍💻 I have knowledge about programming sciences the old school style
 - 👨‍💻 I am focused on updating with programing science technology
 - 🛠 I really like to help, work as a team, share my knowledge and ask questions when I need it. 😄
